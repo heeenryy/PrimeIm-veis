@@ -1,0 +1,17 @@
+# Ambiente
+.env
+vendor/
+
+# Uploads de usuário (se quiser ignorar)
+uploads/*
+!uploads/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.log
+
+Adiciona .gitignore
