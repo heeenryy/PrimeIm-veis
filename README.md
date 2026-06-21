@@ -10,7 +10,7 @@ Sistema web completo para gestão de uma agência imobiliária, desenvolvido com
 
 | Página inicial | Detalhes do imóvel |
 |---|---|
-| ![Home](screenshots/home.png) | ![Detalhes](screenshots/imovel.png) |
+| ![Home](screenshots/home.png) | ![Detalhes](screenshots/imoveis.png) |
 
 | Painel administrativo | Login |
 |---|---|
