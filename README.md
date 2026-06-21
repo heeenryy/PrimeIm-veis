@@ -10,11 +10,11 @@ Sistema web completo para gestão de uma agência imobiliária, desenvolvido com
 
 | Página inicial | Detalhes do imóvel |
 |---|---|
-| ![Home](caminho/da/imagem1.png) | ![Detalhes](caminho/da/imagem2.png) |
+| ![Home](screenshots/home.png) | ![Detalhes](screenshots/imovel.png) |
 
 | Painel administrativo | Login |
 |---|---|
-| ![Admin](caminho/da/imagem3.png) | ![Login](caminho/da/imagem4.png) |
+| ![Admin](screenshots/adm.png) | ![Login](screenshots/login.png) |
 
 ---
 
